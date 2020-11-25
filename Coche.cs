@@ -14,7 +14,8 @@ namespace Poo1
     /// </summary>
     class Coche
     {
-        //atributos 
+
+        //atributos hola 
         private int id;
         private  string marca ;
         private string modelo ;
